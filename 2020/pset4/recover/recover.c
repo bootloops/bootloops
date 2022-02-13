@@ -37,28 +37,28 @@ int main(int argc, char *argv[])
 
         while (fread(buffer, 512, 1, in_file) && !feof(in_file))
         {
-            //if find jpeg header and not writing
+            //if find jpeg header
             if (buffer[0] == 0xff && buffer[1] == 0xd8 && buffer[2] == 0xff && ((buffer[3] & 0xf0) == 0xe0))
             {
-                if (file_count == 0)
+                if (file_count == 0) //0 files initialized, so not already writing.
                 {
-                    fwrite(buffer, 512, 1, image);
-                    file_count++;
-                    writing = 1;
+                    fwrite(buffer, 512, 1, image);  //start writing
+                    file_count++;                   //count files found
+                    writing = 1;                    //now is writing
                 }
                 else
                 {
-                    fclose(image);
-                    sprintf(jpeg_file, "%03i.jpg", file_count);
-                    image = fopen(jpeg_file, "w");
-                    fwrite(buffer, 512, 1, image);
-                    file_count++;
+                    fclose(image);                              //if when filecount is more than 0
+                    sprintf(jpeg_file, "%03i.jpg", file_count); //print string into jpeg_file, "file_count.jpg"
+                    image = fopen(jpeg_file, "w");              //open new file for writing, "file_count.jpg" (assigned to jpeg_file) -> write
+                    fwrite(buffer, 512, 1, image);              //write whats in the buffer, to the new image
+                    file_count++;                               //add to file_count
                 }
             }
             //if not find jpeg header sequence & already writing
             else if (writing)
             {
-                fwrite(buffer, 512, 1, image);
+                fwrite(buffer, 512, 1, image); //keep writing what is in the buffer to new image
             }
         } //END WHILE
 

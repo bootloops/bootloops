@@ -34,6 +34,7 @@ int main(void)
         generate_hex_to_decimal(HEX[i]);
     }
     printf("\n\n\n");
+    get_it();
     /*
     int a = 1;
     int b = 2;
@@ -110,21 +111,25 @@ void copy_func()
 }
 
 
-void scanner_f()
+void scanner_f() //not working
 {
-    char *s = NULL;
+    char *s = "none";
     printf("s: ");
-    scanf("%s", s); //string scan
-    printf("s: %s\n", s);
+    scanf("%s", (char*)s); //string scan
+    for (int i = 0; i < strlen(s); i++)
+    {
+        printf("s: %c\n", s[i]);
+    }
+
 }
 
-void get_it()
+void get_it() //constant segmentation faults...
 {
-    int x;
+    char *x;
     printf("x: ");
     //no error checking built in to scanf
-    scanf("%i", &x); //check users prompt
-    printf("x: %i\n", x);
+    scanf("%s", &x); //check users prompt
+    printf("x input: %c\n", *x);
 }
 void noswap(int a, int b)
 {
