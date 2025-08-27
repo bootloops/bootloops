@@ -1,25 +1,61 @@
-<DOCTYPE html>
-<html >
-<body style="background-color: yellow; color: black">
-<h1> @bootloops </h1>
-<h2> You made it! <h2>
-<h3> Latest news: </h3>
-<p><b>11/21/2021</b><br>
-Started CS50 online with Harvard in March 2020 when covid hit.
-Attempting to reboot some abilities I haven't been able to flex.
-Hit the ground running! Within 5 months I had completed 6 assignments!
-I was on my way, everything was flowing easily again.
-</p>
-<p>
-Well I wasn't able to complete all assignments before the end of 2020.
-It was urgent I return to work, our living conditions were not very good.
-</p> 
-<p>
-Long story short.. I am doing my best to continue what I started.
-In my free time, here and there, I've written many bash scripts.
-They're designed to help me automate some administration tasks remotely.
-</p>
+# 👋 Hi, I’m @bootloops  
 
-<!---
-github.com/bootloops/bootloops/README.md
---->
+⚡ Maker | 🖥️ Systems Tinkerer | 📚 Indie Author | 🎮 Gamified Learning Designer  
+
+![Profile Views](https://komarev.com/ghpvc/?username=bootloops&style=flat-square)  
+![GitHub followers](https://img.shields.io/github/followers/bootloops?style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/bootloops?style=flat-square)  
+
+---
+
+## 🛠️ Tech Stack
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)  
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-orange)  
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+
+---
+
+## 🔧 What I Build
+- **Embedded Systems** → ESP32 dashboards, modular “OS”, RF experiments (CC1101/NRF).  
+- **Automation Tools** → Bash scripts to simplify Linux admin (see [bashing_bytes](https://github.com/bootloops/bashing_bytes)).  
+- **Web & Apps** → Interactive canvases, particle overlays, publishing tools.  
+- **Creative Projects** → Author of *Gilding with Love: A Peaceful Journey into the Ancient Art*.  
+
+---
+
+## 🌟 Featured Repositories
+🚀 [**bashing_bytes**](https://github.com/bootloops/bashing_bytes) → a collection of useful Bash tools (`logfu`, `NetMonInfo`, and more).  
+🛡️ [**malipypi**](https://github.com/bootloops/malipypi) → detect and remove malicious packages from Arch Linux.  
+🌐 [**Floaty**](https://github.com/bootloops/Floaty) → small HTML demo (viewable with GitHub Pages).  
+🔬 [**ESP32-WROVER**](https://github.com/bootloops/ESP32-WROVER) → sketches and experiments for ESP32 hardware.  
+
+---
+
+## 📢 Latest News
+- **2025**: Expanding *bashing_bytes* into a polished Bash toolkit with CI + docs.  
+- **2025**: Building an ESP32 “OS” with TFT dashboard, Wi-Fi CLI, and game launcher.  
+- **2025**: Continuing to blend software, hardware, and creative writing.  
+
+*(Older updates: started Harvard CS50 in 2020 → finished 9/11 problem sets → kept building through Bash & ESP32 projects.)*  
+
+---
+
+## 💡 Philosophy
+> I see myself not just as a coder, but as a **co-creator**:  
+> blending hardware hacking, automation, web tools, and storytelling into new experiments.  
+
+---
+
+## 📊 GitHub Stats
+![Bootloops GitHub stats](https://github-readme-stats.vercel.app/api?username=bootloops&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bootloops&layout=compact&theme=tokyonight)  
+
+---
+
+## 📬 Connect
+💻 GitHub is my open lab.  
+📚 Ask me about ESP32 projects, Bash scripting, or indie publishing tools.  
