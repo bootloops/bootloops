@@ -57,9 +57,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Bootloops GitHub stats](https://github-readme-stats.vercel.app/api?username=bootloops&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bootloops&layout=compact&theme=tokyonight)  
-
+<placeholder></placeholder>
 ---
 
 ## 📬 Connect
