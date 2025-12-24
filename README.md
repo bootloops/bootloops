@@ -11,6 +11,7 @@
 ## 🛠️ Tech Stack
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)  
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-orange)  
+![RaspberryPi](https://img.shields.io/badge/RaspberryPI-SBC-green)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
