@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @bootloops  
 
-⚡ Maker | 🖥️ Systems Tinkerer | 📚 Indie Author | 🎮 Gamified Learning Designer  
+⚡ Maker | 🖥️ Systems Tinkerer | 📚 Indie Author | 🎮 Gamified Learning Designer  | 🧘‍♂️ Self Master
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bootloops&style=flat-square)  
 ![GitHub followers](https://img.shields.io/github/followers/bootloops?style=flat-square)  
