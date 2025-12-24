@@ -25,7 +25,7 @@
 - **Embedded Systems** → ESP32 dashboards, modular “OS”, RF experiments (CC1101/NRF).  
 - **Automation Tools** → Bash scripts to simplify Linux admin (see [bashing_bytes](https://github.com/bootloops/bashing_bytes)).  
 - **Web & Apps** → Interactive canvases, particle overlays, publishing tools.  
-- **Creative Projects** → Author of *Gilding with Love: A Peaceful Journey into the Ancient Art*.  
+- **Creative Projects** → Raspberry Pi Nodejs/Python Web Apps/Servers
 
 ---
 
@@ -40,15 +40,19 @@
 ## 📢 Latest News
 - **2025**: Expanding *bashing_bytes* into a polished Bash toolkit with CI + docs.  
 - **2025**: Building an ESP32 “OS” with TFT dashboard, Wi-Fi CLI, and game launcher.  
-- **2025**: Continuing to blend software, hardware, and creative writing.  
+- **2025**: Continuing to blend software, hardware, and creative writing.
+- **2026**: Quantum Minds inception. Bringing self-mastery through all idustries to everyone.
 
-*(Older updates: started Harvard CS50 in 2020 → finished 9/11 problem sets → kept building through Bash & ESP32 projects.)*  
+*(Older updates: started Harvard CS50 in 2020 → finished 9/11 problem sets → kept building through Bash, Python, HTML/CSS/JS/NodeJS, Raspberry Pi projects & ESP32 projects.)*  
 
 ---
 
 ## 💡 Philosophy
 > I see myself not just as a coder, but as a **co-creator**:  
-> blending hardware hacking, automation, web tools, and storytelling into new experiments.  
+> blending hardware hacking, automation, web tools, and storytelling into new experiments.
+> spreading consciousness through digital projects.
+> bringing a lighthouse to the spiritually aware.
+> continually learning & teaching self mastery one character at a time.
 
 ---
 
