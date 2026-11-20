@@ -26,7 +26,7 @@ My personal site: **Build a better loop.**
 A collection of Python experiments and practical tools.
 
 ### [Bash Projects](http://github.com/bootloops/BashProjects)
-A handful of Bash projects. Featuring [BaiSH](https://github.com/bootloops/BashProjects/tree/main/BaiSH)
+A handful of Bash projects. Featuring [BaiSH](https://github.com/bootloops/BashProjects/tree/main/BaiSH) a Local AI (ollama) model terminal assitant.
 
 ### [Bashing Bytes](https://github.com/bootloops/bashing_bytes)
 Bash scripts and utilities built for Raspberry Pi and Tinker Board hardware.
