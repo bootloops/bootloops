@@ -1,50 +1,44 @@
-# 👋 Hi, I’m @bootloops  
+# C G — @bootloops
 
-⚡ Maker | 🖥️ Systems Tinkerer | 📚 Indie Author | 🎮 Gamified Learning Designer  | 🧘‍♂️ Self Master
+I build practical, local-first tools that connect **software, AI, hardware, and creative media**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=bootloops&style=flat-square)  
-![GitHub followers](https://img.shields.io/github/followers/bootloops?style=flat-square)  
-![GitHub stars](https://img.shields.io/github/stars/bootloops?style=flat-square)  
+My work often begins as an experiment: a Raspberry Pi script, an ESP32 prototype,
+a Flask/JavaScript app, or a local AI interface—then becomes a tool I actually use.
 
----
+## What I build
 
-## 🛠️ Tech Stack
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-orange)  
-![RaspberryPi](https://img.shields.io/badge/RaspberryPI-SBC-green)
+- **Local AI & automation** — local-model interfaces, AI-assisted workflows, and practical automation tools
+- **Web & app prototypes** — Flask, JavaScript, responsive UI, dashboards, media players, and learning tools
+- **Embedded systems** — ESP32, Arduino, sensors, displays, Raspberry Pi, and Tinker Board projects
+- **Maker tooling** — Bash utilities, project organization, hardware experiments, and creative technical systems
+- **Music & interactive media** — digital audio experiments, music platforms, games, and generative creative tools
 
-![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+## Featured projects
 
----
+### [Maker Command Center](https://github.com/bootloops/maker-command-center)
+A local-first command center for turning ideas into projects, builds, and experiments.
+It adds user-selected local AI analysis to help organize and reflect on maker work.
 
-## 🔧 What I Build
-- **Embedded Systems** → ESP32 dashboards, modular “OS”, RF experiments (CC1101/NRF).  
-- **Automation Tools** → Bash scripts to simplify Linux admin (see [bashing_bytes](https://github.com/bootloops/bashing_bytes)).  
-- **Web & Apps** → Interactive canvases, particle overlays, publishing tools.  
-- **Creative Projects** → Raspberry Pi Nodejs/Python Web Apps/Servers
+### [Bootloops Site](https://github.com/bootloops/bootloops-site)
+My personal site: **Build a better loop.**
 
----
+### [Python Projects](https://github.com/bootloops/PythonProjects)
+A collection of Python experiments and practical tools.
 
-## 🌟 Featured Repositories
-🚀 [**bashing_bytes**](https://github.com/bootloops/bashing_bytes) → a collection of useful Bash tools (`logfu`, `NetMonInfo`, and more).  
-🛡️ [**malipypi**](https://github.com/bootloops/malipypi) → detect and remove malicious packages from Arch Linux.  
-🌐 [**Floaty**](https://github.com/bootloops/Floaty) → small HTML demo (viewable with GitHub Pages).  
-🔬 [**ESP32-WROVER**](https://github.com/bootloops/ESP32-WROVER) → sketches and experiments for ESP32 hardware.  
+### [Bashing Bytes](https://github.com/bootloops/bashing_bytes)
+Bash scripts and utilities built for Raspberry Pi and Tinker Board hardware.
 
----
+## Currently exploring
 
-## 📢 Latest News
-- **2025**: Expanding *bashing_bytes* into a polished Bash toolkit with CI + docs.  
-- **2025**: Building an ESP32 “OS” with TFT dashboard, Wi-Fi CLI, and game launcher.  
-- **2025**: Continuing to blend software, hardware, and creative writing.
-- **2026**: Quantum Minds inception. Bringing self-mastery through all idustries to everyone.
+- Local AI workflows and model integration
+- ESP32, sensors, displays, and connected hardware
+- Web applications, dashboards, and interactive prototypes
+- Music creation, digital audio, and creative automation
+- Repurposing older computers and devices into useful systems
 
-*(Older updates: started Harvard CS50 in 2020 → finished 9/11 problem sets → kept building through Bash, Python, HTML/CSS/JS/NodeJS, Raspberry Pi projects & ESP32 projects.)*  
+## Connect
 
+- GitHub: [@bootloops](https://github.com/bootloops)
 ---
 
 ## 💡 Philosophy
